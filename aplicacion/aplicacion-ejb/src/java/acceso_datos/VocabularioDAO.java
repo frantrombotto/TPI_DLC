@@ -13,7 +13,7 @@ import javax.persistence.EntityManager;
  */
 
 public class VocabularioDAO {
-    @PersistenceContext(name= "aplicacion-ejbPU")EntityManager em;
-    
-    
+//    @PersistenceContext(name= "aplicacion-ejbPU")
+//                EntityManager em;
+//    
 }
